@@ -1,6 +1,6 @@
 # Self-Evolution Learning for Discriminative Language Model Pretraining
 
-This repository contains the code for our paper accepted by ACL2023(https://aclanthology.org/2023.findings-acl.254/).
+This repository contains the code for our paper accepted by [ACL2023](https://aclanthology.org/2023.findings-acl.254/).
 
 ## Requirements and Installation
 
