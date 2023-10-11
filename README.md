@@ -19,6 +19,8 @@ pip install --editable ./
 # CFLAGS="-stdlib=libc++" pip install --editable ./
 ```
 
+Note that the different version of fairseq would cause some issues, and we recommend to use this [version](https://github.com/facebookresearch/fairseq/tree/4e74b09a484359f33ac8a2aa6938449749124832) for stable training.
+
 # Getting Started
 Here, we introduce how to perform the "***self-questioning stage***" and "***self-evolution training stage***" processes, respectively.
 
