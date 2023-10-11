@@ -1,6 +1,6 @@
 # Self-Evolution Learning for Discriminative Language Model Pretraining
 
-This repository contains the code for our paper submitted to ACL2023.
+This repository contains the code for our paper accepted by ACL2023. ([Paper]([https://arxiv.org/pdf/2302.10198v2.pdf](https://aclanthology.org/2023.findings-acl.254/)))
 
 ## Requirements and Installation
 
@@ -156,6 +156,20 @@ fairseq-train $DATA_DIR \
 
 # Evaluation
 You can evaluate the improved models by using the original [fine-tuning scripts](https://github.com/facebookresearch/fairseq/tree/main/examples/roberta), or any way you like.
+
+
+
+## Citation
+If you find this work helpful, please consider citing as follows:  
+
+```ruby
+@inproceedings{zhong-etal-2023-self,
+    title = "Self-Evolution Learning for Discriminative Language Model Pretraining",
+    author = "Zhong, Qihuang  and Ding, Liang  and Liu, Juhua  and Du, Bo  and Tao, Dacheng",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    year = "2023",
+}
+```
 
 
 
